@@ -115,13 +115,13 @@ gRPC Client들은 다양한 환경에서 서버와 통신 할 수 있다. gRPC�
 
 3. generate Proto를 통해 코드 생성
 
-   <img src="./image1.png" alt="image1" style="zoom:50%;" />
+   <img src="doc/image1.png" alt="image1" style="zoom:50%;" />
 
    
 
    | option java_multiple_files = false                        | option java_multiple_files = true                         |
    | --------------------------------------------------------- | --------------------------------------------------------- |
-   | <img src="./image2.png" alt="image1" style="zoom:50%;" /> | <img src="./image3.png" alt="image1" style="zoom:50%;" /> |
+   | <img src="./doc/image2.png" alt="image1" style="zoom:50%;" /> | <img src="./doc/image3.png" alt="image1" style="zoom:50%;" /> |
 
    
 
